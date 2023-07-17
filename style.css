@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(rgba(255,255,255,.6), rgba(255,255,255,.6)), url(newspaper.jpg);
+}
+
+#hobby,h3{
+    padding-left: 50px;
+}
